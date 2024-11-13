@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942660829556",
+    "project_id": "auth-685cc",
+    "storage_bucket": "auth-685cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942660829556:android:75f51e7351c6f17f0c6c21",
+        "android_client_info": {
+          "package_name": "com.example.otp_authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtwy5Sq3JcSBbmvxh9S2bhMr99CexYbJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
